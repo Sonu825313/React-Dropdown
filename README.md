@@ -1,5 +1,7 @@
 # React-Dropdown
 
+Created a simple dropdown component such that when i click the arrow button it shows me a dropdown menu.
+
 # Hosted Link:
 
 https://sonu825313.github.io/React-Dropdown/
